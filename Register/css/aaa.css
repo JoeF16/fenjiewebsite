@@ -1,0 +1,67 @@
+.navbar{
+    background-color: rgba(255,255,255,0.5) !important;
+}
+
+
+
+
+.navbar-brand{
+    color: rgba(0,123,255,1) !important ;
+    font-size: 30 ;
+    font-weight: 1000 ;
+    
+    
+    
+}
+
+
+
+.nav-link{
+    color: rgba(0,123,255,1) !important ;
+    font-size: 20px ;
+    font-weight: 1000 !important ;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+}
+
+
+
+.form{
+   
+    width: 70%    
+    
+}
+
+
+
+
+
+.pa{
+   font-size: 55px ;
+    font-weight: 1000;
+    color: white
+    
+    
+    
+
+
+
+}
+
+
+.boo{position: relative;
+    top:  10%}
+
+label{font-size: 25px ;
+font-weight: 1000;
+color: white}
+
+
+
+.all{ height: 160% ;
+    background-image: url(../3333333333333333.jpg) ;
+    background-size:cover ;
+   
+}

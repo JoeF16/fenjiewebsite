@@ -1,0 +1,101 @@
+.all{
+    height: 180% ;
+    background-image: url(../../../6666666666.jpg) ;
+    background-position: center ;
+    background-size: cover
+    
+    
+    
+}
+.navbar{
+    background-color: rgba(0,123,255,0.5) !important;
+}
+
+
+
+
+.navbar-brand{
+    color: darkblue !important ;
+    font-size: 30 ;
+    font-weight: 1000
+    
+    
+}
+
+
+
+.nav-link{
+    color: white !important ;
+    font-size: 20px ;
+    font-weight: 600
+    
+    
+    
+}
+
+
+.our-product{
+    text-align: center;
+    position: relative;
+    top: 10px;
+color: rgba(0,123,255,1) !important;
+   position: relative;
+    top: 100px;
+    
+    
+}
+
+
+
+.our-products{font-size: 65px !important;
+    font-weight: 600 !important}
+
+
+
+
+.card-deck{
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    top: 120px;
+}
+.card{
+    border-radius: 14px;
+
+   
+  
+}
+.card img{
+    border-radius: 13px;
+    
+}
+.INFO{
+    text-align: center!important;
+ background-color: rgba(0,123,255,0.5) !important; !important;
+   position: absolute;
+    width: 100%;
+    height:100%;
+    border-radius: 14px;
+    opacity: 0; 
+}
+.card:hover .INFO{
+    opacity: 0.8;
+}
+.c{
+    text-align: center;
+    position:static;
+}
+.c h3{
+    color: black;
+    
+   
+}
+.c p{
+    color: black; 
+}
+.a{
+    position: relative;
+    bottom: 10px;
+}
+
